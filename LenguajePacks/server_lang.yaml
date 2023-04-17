@@ -14,4 +14,5 @@ user_exists:                     "The username is already exists"
 password_to_short:               "The password is to short"
 user_parameters_register_error:  "The password is to short"
 already_logged_registered:       "You register cant if you are logged"
+not_valid_email:                 "The email you entered is not valid"
 

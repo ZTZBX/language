@@ -23,6 +23,7 @@ namespace lenguaje.Server
             Exports.Add("password_to_short", new Func<string>(password_to_short));
             Exports.Add("user_parameters_register_error", new Func<string>(user_parameters_register_error));
             Exports.Add("already_logged_registered", new Func<string>(already_logged_registered));
+            Exports.Add("not_valid_email", new Func<string>(not_valid_email));
         }
 
         private string user_wrong(){return lang.data.user_wrong;}
@@ -34,6 +35,7 @@ namespace lenguaje.Server
         private string user_parameters_register_error(){return lang.data.user_parameters_register_error;}
         private string already_logged_registered(){return lang.data.already_logged_registered;}
 
+        private string not_valid_email(){return lang.data.not_valid_email;}
 
 
     }

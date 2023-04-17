@@ -18,6 +18,8 @@ namespace lenguaje.Server
 
             public string user_parameters_register_error { get; set; }
             public string already_logged_registered { get; set; }
+
+            public string not_valid_email { get; set; }
         }
 
     public class YamlConfig
