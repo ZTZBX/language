@@ -29,7 +29,7 @@ namespace lenguaje.Server
         private string user_parameters_login_error(){return lang.data.user_parameters_login_error;}
         private string already_logged(){return lang.data.already_logged;}
         private string email_exists(){return lang.data.email_exists;}
-        private string user_exists(){return lang.data.user_wrong;}
+        private string user_exists(){return lang.data.user_exists;}
         private string password_to_short(){return lang.data.password_to_short;}
         private string user_parameters_register_error(){return lang.data.user_parameters_register_error;}
         private string already_logged_registered(){return lang.data.already_logged_registered;}

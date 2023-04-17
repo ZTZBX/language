@@ -9,3 +9,4 @@ mklink /d X:\cfx-server-data\resources\[local]\lenguaje dist
 ```
 
 Afterwards, you can use `ensure lenguaje` in your server.cfg or server console to start the resource.
+
