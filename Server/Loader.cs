@@ -27,7 +27,7 @@ namespace language.Server
         public LoadServerSide data;
         public YamlConfig(string filePath)
         {
-            string contents = File.ReadAllText($"{GetResourcePath(GetCurrentResourceName())}/LenguajePacks/{filePath}");
+            string contents = File.ReadAllText($"{GetResourcePath(GetCurrentResourceName())}/languagePacks/{filePath}");
             var deserializer = new DeserializerBuilder()
             .WithNamingConvention(UnderscoredNamingConvention.Instance)
             .Build();

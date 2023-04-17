@@ -2,9 +2,9 @@
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lenguaje.Client", "Client\lenguaje.Client.csproj", "{3E0759C5-AD38-412F-953C-C3A3490428D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "language.Client", "Client\language.Client.csproj", "{3E0759C5-AD38-412F-953C-C3A3490428D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lenguaje.Server", "Server\lenguaje.Server.csproj", "{769F0A06-FF3F-4487-96F7-9FC7413AB4D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "language.Server", "Server\language.Server.csproj", "{769F0A06-FF3F-4487-96F7-9FC7413AB4D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

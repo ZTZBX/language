@@ -2,7 +2,7 @@ fx_version 'bodacious'
 game 'gta5'
 
 files {
-    'LenguajePacks/server_lang.yaml',
+    'languagePacks/server_lang.yaml',
     'Client/*.dll'
 }
 
