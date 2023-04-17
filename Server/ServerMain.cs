@@ -11,7 +11,7 @@ namespace lenguaje.Server
     public class ServerMain : BaseScript
     {
 
-         YamlConfig lang = new YamlConfig("server_base.yaml");
+         YamlConfig lang = new YamlConfig("server_lang.yaml");
 
         public ServerMain()
         {
