@@ -1,0 +1,17 @@
+#
+#   *core-ztzbx*
+#
+
+# auth part
+## General auth
+user_wrong:                      "The username or password is wrong"
+user_parameters_login_error:     "You need to pass username and password"
+already_logged:                  "You cant login if you are already logged"
+
+## Register auth
+email_exists:                    "The email is already exists"
+user_exists:                     "The username is already exists"
+password_to_short:               "The password is to short"
+user_parameters_register_error:  "The password is to short"
+already_logged_registered:       "You register cant if you are logged"
+
