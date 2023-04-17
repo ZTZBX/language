@@ -11,7 +11,7 @@ client_script 'Client/**.net.dll'
 
 author 'zabbix-byte'
 version '1.0.0'
-description 'lenguaje selector ZTZBX Framework'
+description 'language selector ZTZBX Framework'
 
 server_exports {
     "user_wrong",

@@ -6,7 +6,7 @@ using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
 using static CitizenFX.Core.Native.API;
 
-namespace lenguaje.Server
+namespace language.Server
 {
     public class ServerMain : BaseScript
     {

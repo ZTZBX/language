@@ -4,7 +4,7 @@ using static CitizenFX.Core.Native.API;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
 
-namespace lenguaje.Server
+namespace language.Server
 {
     public class LoadServerSide
         {
