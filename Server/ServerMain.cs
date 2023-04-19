@@ -30,19 +30,18 @@ namespace language.Server
 
         }
 
-        private string user_wrong(){return lang.data.user_wrong;}
-        private string user_parameters_login_error(){return lang.data.user_parameters_login_error;}
-        private string already_logged(){return lang.data.already_logged;}
-        private string email_exists(){return lang.data.email_exists;}
-        private string user_exists(){return lang.data.user_exists;}
-        private string password_to_short(){return lang.data.password_to_short;}
-        private string user_parameters_register_error(){return lang.data.user_parameters_register_error;}
-        private string already_logged_registered(){return lang.data.already_logged_registered;}
-        private string not_valid_email(){return lang.data.not_valid_email;}
-        private string no_username(){return lang.data.no_username;}
-        private string no_password(){return lang.data.no_password;}
-        private string no_email(){return lang.data.no_email;}
-
+        private string user_wrong() { return lang.data.user_wrong; }
+        private string user_parameters_login_error() { return lang.data.user_parameters_login_error; }
+        private string already_logged() { return lang.data.already_logged; }
+        private string email_exists() { return lang.data.email_exists; }
+        private string user_exists() { return lang.data.user_exists; }
+        private string password_to_short() { return lang.data.password_to_short; }
+        private string user_parameters_register_error() { return lang.data.user_parameters_register_error; }
+        private string already_logged_registered() { return lang.data.already_logged_registered; }
+        private string not_valid_email() { return lang.data.not_valid_email; }
+        private string no_username() { return lang.data.no_username; }
+        private string no_password() { return lang.data.no_password; }
+        private string no_email() { return lang.data.no_email; }
 
     }
 }

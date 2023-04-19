@@ -20,5 +20,8 @@ server_exports {
     "password_to_short",
     "user_parameters_register_error",
     "already_logged_registered",
-    "not_valid_email"
+    "not_valid_email",
+    "no_username",
+    "no_password",
+    "no_email"
 }
