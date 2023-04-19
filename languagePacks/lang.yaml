@@ -1,8 +1,7 @@
-#
+# module:
 #   *core-ztzbx*
 #
 
-# auth part
 ## General auth
 user_wrong:                      "The username or password is wrong"
 user_parameters_login_error:     "You need to pass username and password"
@@ -16,3 +15,12 @@ user_parameters_register_error:  "The password is to short"
 already_logged_registered:       "You register cant if you are logged"
 not_valid_email:                 "The email you entered is not valid"
 
+
+# module:
+#   * auth-interface*
+#
+
+## Messages gb
+no_username: "Please insert the username!"
+no_password: "Please insert the password!"
+no_email: "Please enter your email address"
