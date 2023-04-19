@@ -2,12 +2,10 @@ fx_version 'bodacious'
 game 'gta5'
 
 files {
-    'languagePacks/lang.yaml',
-    'Client/*.dll'
+    'languagePacks/lang.yaml'
 }
 
 server_script 'Server/**.net.dll'
-client_script 'Client/**.net.dll'
 
 author 'zabbix-byte'
 version '1.0.0'

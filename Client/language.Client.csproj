@@ -1,5 +1,0 @@
-<Project Sdk="CitizenFX.Sdk.Client/0.2.3">
-    <ItemGroup>
-    <PackageReference Include="YamlDotNet" Version="13.1.0" />
-    </ItemGroup>
-</Project>
