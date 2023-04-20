@@ -23,5 +23,6 @@ server_exports {
     "not_valid_email",
     "no_username",
     "no_password",
-    "no_email"
+    "no_email",
+    "banned_message"
 }
