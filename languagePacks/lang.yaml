@@ -6,6 +6,7 @@
 user_wrong:                      "The username or password is wrong"
 user_parameters_login_error:     "You need to pass username and password"
 already_logged:                  "You cant login if you are already logged"
+banned_message:                  "You can't access the server, you are banned"
 
 ## Register auth
 email_exists:                    "The email is already exists"

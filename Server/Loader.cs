@@ -13,17 +13,14 @@ namespace language.Server
         public string already_logged { get; set; }
         public string user_exists { get; set; }
         public string password_to_short { get; set; }
-
         public string email_exists { get; set; }
-
         public string user_parameters_register_error { get; set; }
         public string already_logged_registered { get; set; }
         public string not_valid_email { get; set; }
         public string no_username { get; set; }
         public string no_password { get; set; }
         public string no_email { get; set; }
-
-
+        public string banned_message { get; set; }
     }
 
     public class YamlConfig
