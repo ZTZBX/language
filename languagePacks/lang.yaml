@@ -11,6 +11,7 @@ banned_message:                  "You can't access the server, you are banned"
 ## Register auth
 email_exists:                    "The email is already exists"
 user_exists:                     "The username is already exists"
+user_to_large:                   "The username is to large maximum 20 characters"
 password_to_short:               "The password is to short"
 user_parameters_register_error:  "The password is to short"
 already_logged_registered:       "You register cant if you are logged"

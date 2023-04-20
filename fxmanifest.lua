@@ -24,5 +24,6 @@ server_exports {
     "no_username",
     "no_password",
     "no_email",
-    "banned_message"
+    "banned_message",
+    "user_to_large"
 }

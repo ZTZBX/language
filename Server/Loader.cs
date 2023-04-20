@@ -21,6 +21,7 @@ namespace language.Server
         public string no_password { get; set; }
         public string no_email { get; set; }
         public string banned_message { get; set; }
+        public string user_to_large { get; set; }
     }
 
     public class YamlConfig

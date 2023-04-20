@@ -28,6 +28,8 @@ namespace language.Server
             Exports.Add("no_password", new Func<string>(no_password));
             Exports.Add("no_email", new Func<string>(no_email));
             Exports.Add("banned_message", new Func<string>(banned_message));
+            Exports.Add("user_to_large", new Func<string>(user_to_large));
+            
 
         }
 
@@ -43,7 +45,9 @@ namespace language.Server
         private string no_username() { return lang.data.no_username; }
         private string no_password() { return lang.data.no_password; }
         private string no_email() { return lang.data.no_email; }
-         private string banned_message() { return lang.data.banned_message; }
+        private string banned_message() { return lang.data.banned_message; }
+        private string user_to_large() { return lang.data.user_to_large; }
+         
 
     }
 }
